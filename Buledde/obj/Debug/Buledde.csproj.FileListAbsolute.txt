@@ -1,0 +1,7 @@
+C:\Users\f.mueller8\source\repos\Buledde\Buledde\bin\Debug\Buledde.exe.config
+C:\Users\f.mueller8\source\repos\Buledde\Buledde\bin\Debug\Buledde.exe
+C:\Users\f.mueller8\source\repos\Buledde\Buledde\bin\Debug\Buledde.pdb
+C:\Users\f.mueller8\source\repos\Buledde\Buledde\obj\Debug\Buledde.csprojAssemblyReference.cache
+C:\Users\f.mueller8\source\repos\Buledde\Buledde\obj\Debug\Buledde.csproj.CoreCompileInputs.cache
+C:\Users\f.mueller8\source\repos\Buledde\Buledde\obj\Debug\Buledde.exe
+C:\Users\f.mueller8\source\repos\Buledde\Buledde\obj\Debug\Buledde.pdb
